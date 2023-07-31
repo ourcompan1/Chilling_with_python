@@ -1,0 +1,4 @@
+django-admin bd:
+
+login: 84613admin111
+parol: 84613admin111
