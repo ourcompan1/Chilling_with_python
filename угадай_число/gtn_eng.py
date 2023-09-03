@@ -1,6 +1,7 @@
 from random import randint
 
 random_number = randint(1, 15)
+
 attempts = 0
 user_input = 0
 
